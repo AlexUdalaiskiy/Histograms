@@ -33,4 +33,12 @@ for i, col in enumerate(color):
 	plt.plot(histogram2, color = col)
 	plt.xlim([0, 256])
 
-plt.show()
+plt.show
+
+
+'''   
+Test for changes in the Git rep !!!
+
+
+
+'''
